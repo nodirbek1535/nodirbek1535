@@ -1,0 +1,2 @@
+# Keep GitHub profile README merge-safe to avoid repeated conflict markers
+README.md merge=ours

@@ -2,7 +2,7 @@
 <h3 align="center">💼 Backend Developer | ⚙️ .NET Ecosystem</h3>
 
 <p align="center">
-  I build scalable and clean backend systems with modern <b>.NET</b> technologies, focusing on
+  I build scalable backend systems with modern <b>.NET</b> technologies, focusing on
   maintainable architecture, reliable APIs, and quality-driven development.
 </p>
 
@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m a **Backend Developer** focused on the **.NET ecosystem**.
 - 🧠 I enjoy designing robust **REST APIs** and scalable backend systems.
-- 🧩 I follow **Clean Architecture** and **Layered Architecture** principles.
+- 🧩 I follow **The Standard Architecture** approach by **Hassan Habib**.
 - ✅ I care about software quality through **Unit Testing** and best practices.
 - 🚀 Always learning and improving as an engineer.
 
@@ -44,20 +44,20 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge&logo=dependabot&logoColor=white)
+![The Standard](https://img.shields.io/badge/The_Standard-111111?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-0A66C2?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-3C3C3C?style=for-the-badge&logo=databricks&logoColor=white)
+![Hassan Habib](https://img.shields.io/badge/Hassan_Habib_Architecture-3C3C3C?style=for-the-badge&logo=readme&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodirbek1535&show_icons=true&theme=tokyonight&hide_border=true" alt="Nodirbek's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nodirbek1535&show_icons=true&theme=tokyonight&hide_border=true" alt="Nodirbek's GitHub stats" />
 </p>
 
 ## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbek1535&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nodirbek1535&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ## 🔥 GitHub Streak
@@ -75,7 +75,7 @@
 ## 🚀 Featured Projects
 ### 1) 🏠 Shenam API
 **A REST API for rental housing built with .NET 6.**
-- Focus: scalable endpoints, clean architecture, and maintainable backend patterns.
+- Focus: scalable endpoints, The Standard architecture, and maintainable backend patterns.
 
 ### 2) 📚 Library API
 **Backend service for managing books.**
@@ -97,8 +97,8 @@
   <a href="https://leetcode.com/u/nodirbek1535/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:nodirbek1535@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nodirbek1535@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
